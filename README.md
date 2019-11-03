@@ -20,4 +20,4 @@ Please keep in mind that this bot will only provide the answers from given QnA p
 
 ## Chatbot in Action:
 
-![SS](/static/bot.png)
+![SS](/static/images/bot.png)
