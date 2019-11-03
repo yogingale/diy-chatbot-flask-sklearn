@@ -1,5 +1,4 @@
 # DIY ChatBot: Flask and Sklearn
----
 
 ### QnA chatbot with a feedback mechanism.
 
@@ -23,4 +22,5 @@ Please keep in mind that this bot will only provide the answers from given QnA p
 ![SS](/static/images/bot.png)
 
 With Feedback
+
 ![SS](/static/images/bot_with_feedback.png)
