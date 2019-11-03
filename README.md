@@ -21,3 +21,6 @@ Please keep in mind that this bot will only provide the answers from given QnA p
 ## Chatbot in Action:
 
 ![SS](/static/images/bot.png)
+
+With Feedback
+![SS](/static/images/bot_with_feedback.png)
